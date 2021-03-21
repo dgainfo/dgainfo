@@ -1,0 +1,14 @@
+{
+  "Producers": [
+    {
+      "addr": "relay ip",
+      "port": relay port,
+      "valency": 1
+    },
+    {
+      "addr": "other relay ip",
+      "port": other relay port,
+      "valency": 1
+    }
+  ]
+}
